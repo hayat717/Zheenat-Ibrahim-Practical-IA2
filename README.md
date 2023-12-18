@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/hayat717/Zheenat-Ibrahim-Practical-IA2.git
 Install dependencies:
 
 bash
