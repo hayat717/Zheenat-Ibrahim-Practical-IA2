@@ -1,4 +1,4 @@
-import { create } from './models/Patient';
+import { create } from '../models/Patient';
 
 export async function registerPatient(req, res) {
 try {

@@ -1,7 +1,7 @@
 // routes/patientDetails.js
 const express = require('express');
 const router = express.Router();
-const { patientDetails } = require('../patientDetails');
+const { patientDetails } = require('../controllers/patientDetails');
 
 router.get('/:patientId', patientDetails);
 
